@@ -1,0 +1,7 @@
+.inline-view-pokemon {
+    display: inline-block;
+    text-align: center;
+}
+.inline-view-pokemon img {
+    display: block;
+}
